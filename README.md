@@ -14,17 +14,17 @@ Files description:
     The interpretation of the regression results is included in the last part.
 
 Libraries used:
-beautiful soup
-requests
-pandas 
-matplotlib.pyplot
-numpy
-geopandas
-folium
-googlemaps
-scipy.stats
-sklearn.preprocessing
-statsmodels
+1. beautiful soup
+2. requests
+3. pandas 
+4. matplotlib.pyplot
+5. numpy
+6. geopandas
+7. folium
+8. googlemaps
+9. scipy.stats
+10. sklearn.preprocessing
+11. statsmodels
 
 
 
